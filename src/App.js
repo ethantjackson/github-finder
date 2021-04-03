@@ -23,7 +23,7 @@ const App = () => {
               <Switch>
                 <Route
                   exact
-                  path='/'
+                  path='/github-finder'
                   render={() => (
                     <Fragment>
                       <Search />
